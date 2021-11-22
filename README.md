@@ -4,6 +4,5 @@
 - Of computer gaming!
 
 <!---
-joelressell/joelressell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Here's a change I made.
 --->
